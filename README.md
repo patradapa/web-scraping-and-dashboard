@@ -7,5 +7,6 @@ Steps :
 2. Utilize Pandas to clean and transform the scraped data, resulting in a DataFrame. Subsequently, save this DataFrame to a CSV file.
 3. Utilize Looker Studio to design a dashboard for data analysis.
 
-- Dashboard : https://lookerstudio.google.com/reporting/b022093c-d1e2-416a-989c-399891ce6a1f
 - Google Colab : https://colab.research.google.com/drive/1hl6ojpJ5IZx1J7-gkFKOnE1_dMt1w_pg#scrollTo=CXdOZPF31YTB
+- Google Sheet : https://docs.google.com/spreadsheets/d/1Bcon_Nv0qU-gVudHUj-W0-pNdTbTUjdETk_65BFIiK0/edit#gid=1760115323
+- Dashboard : https://lookerstudio.google.com/reporting/b022093c-d1e2-416a-989c-399891ce6a1f
